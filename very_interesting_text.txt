@@ -15,6 +15,8 @@ AStudent is creating a new branch and writing
 the very nice text here. 
 *PLACE HOLDER: ASTUDENT'S VERY NICE TEXT*
 
+Daje roma daje
+
 Before merging the two branches, AStudent
 writes a very nice conclusion for the document
 and commits it.
